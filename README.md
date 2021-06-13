@@ -1,6 +1,8 @@
 # duckduckgoで遊んでみる
 
-make run
+```
+$ make run
+```
 
 - このあとやりたいこと
 
